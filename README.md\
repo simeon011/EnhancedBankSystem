@@ -1,5 +1,6 @@
 
-Enhanced Bank Account Management System with Loan Feature
+#Enhanced Bank Account Management System with Loan Feature
+
 
 📜 Project Description
 Enhanced Bank Account Management System
@@ -31,7 +32,8 @@ Exit System — Properly terminate the session.
 Data Structures Used:
 account_holders — list of account holder names
 
-balances — corresponding balances for each account
+balances — corresponding balances for each account[scnarii.docx](https://github.com/user-attachments/files/19938802/scnarii.docx)
+
 
 transaction_histories — transaction history for each account
 
